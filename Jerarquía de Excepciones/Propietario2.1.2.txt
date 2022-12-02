@@ -1,0 +1,5 @@
+public class Propietario2.1.2 extends Camion2.1{
+    public Propietario2.1.2(String s){
+        super("Tiene que ser el propietario mayor de edad");
+    }
+  }

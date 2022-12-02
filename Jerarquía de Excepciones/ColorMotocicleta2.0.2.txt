@@ -1,0 +1,5 @@
+public class Color2.0.2 extends Motocicleta2.0{
+    public Color2.0.2(String s){
+        super( "Se aceptan todos los colores menos el negro con pegatinas contrarrevolucionarias");
+    }
+  }

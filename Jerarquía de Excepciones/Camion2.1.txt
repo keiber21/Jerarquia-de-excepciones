@@ -1,0 +1,5 @@
+public class Camion2.1 extends 1 TipoVehiculo1{
+    public  Camion2.1(String s){
+        super( "El vehiculo no debe sobrepasarse de las 5 toneladas}");
+    }
+  }

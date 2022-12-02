@@ -1,0 +1,5 @@
+public class Matricula1 extends Camion2.1{
+    public Matricula1(String s){
+        super("Solo se aceptan caracteres alfanumericos");
+    }
+  }

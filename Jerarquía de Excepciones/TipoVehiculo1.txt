@@ -1,0 +1,5 @@
+public class TipoVehiculo1 extends Exception{
+    public TipoVehiculo1(String s){
+        super("Solo se admiten vehiculos ligeros y pesados");
+    }
+  }

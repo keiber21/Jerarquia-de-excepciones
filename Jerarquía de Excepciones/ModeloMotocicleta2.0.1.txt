@@ -1,0 +1,5 @@
+public class Modelo2.0.1 extends Motocicleta2.0{
+     public Modelo2.0.1(String s){
+         super( "Se aceptan todos los modelos menos Harley Davidson");
+    } 
+  }

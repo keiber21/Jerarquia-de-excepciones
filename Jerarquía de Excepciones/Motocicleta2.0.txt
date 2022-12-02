@@ -1,0 +1,5 @@
+public class Motocicleta2.0 extends TipoVehiculo1{
+    public  Motocicleta2.0(String s){
+        super( "El vehiculo no puede tener salidero de aceite}");
+    }
+  }
